@@ -1,0 +1,44 @@
+{
+  "allergies": {
+    "peanuts": "Arachides",
+    "treenuts": "Fruits à Coque",
+    "shellfish": "Fruits de Mer",
+    "dairy": "Produits Laitiers",
+    "eggs": "Œufs",
+    "soy": "Soja",
+    "wheat": "Blé",
+    "fish": "Poisson"
+  },
+  "phrases": {
+    "allergicTo": "Je suis allergique à",
+    "contains": "Est-ce que cela contient",
+    "emergency": "URGENCE: Je fais une réaction allergique",
+    "callAmbulance": "Appelez une ambulance s'il vous plaît",
+    "anaphylaxis": "Je fais un choc anaphylactique",
+    "epipen": "J'ai besoin de mon EpiPen"
+  },
+  "ui": {
+    "appTitle": "Cartes Allergie",
+    "settings": "Paramètres",
+    "profiles": "Profils",
+    "addProfile": "Ajouter",
+    "editProfile": "Modifier",
+    "deleteProfile": "Supprimer",
+    "profileName": "Nom",
+    "allergies": "Allergies",
+    "interfaceLanguage": "Langue Interface",
+    "cardLanguages": "Langues des Cartes",
+    "selectAtLeastOne": "Sélectionnez au moins une allergie",
+    "save": "Enregistrer",
+    "cancel": "Annuler",
+    "showCards": "Afficher Cartes",
+    "setupDescription": "Configurez votre profil",
+    "tabInfo": "Info",
+    "tabDining": "Restaurant",
+    "tabPharmacy": "Pharmacie",
+    "tabEmergency": "Urgence",
+    "footerInstructions": "Montrez cet écran pour communiquer vos allergies",
+    "noProfiles": "Pas encore de profils",
+    "confirmDelete": "Supprimer ce profil?"
+  }
+}

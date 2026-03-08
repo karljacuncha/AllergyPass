@@ -1,0 +1,44 @@
+{
+  "allergies": {
+    "peanuts": "Peanuts",
+    "treenuts": "Tree Nuts",
+    "shellfish": "Shellfish",
+    "dairy": "Dairy",
+    "eggs": "Eggs",
+    "soy": "Soy",
+    "wheat": "Wheat",
+    "fish": "Fish"
+  },
+  "phrases": {
+    "allergicTo": "I am allergic to",
+    "contains": "Does this contain",
+    "emergency": "EMERGENCY: I am having an allergic reaction",
+    "callAmbulance": "Please call an ambulance",
+    "anaphylaxis": "I am going into anaphylactic shock",
+    "epipen": "I need my EpiPen"
+  },
+  "ui": {
+    "appTitle": "AllergyPass",
+    "settings": "Settings",
+    "profiles": "Profiles",
+    "addProfile": "Add Profile",
+    "editProfile": "Edit Profile",
+    "deleteProfile": "Delete Profile",
+    "profileName": "Profile name",
+    "allergies": "Allergies",
+    "interfaceLanguage": "Interface Language",
+    "cardLanguages": "Card Languages (Travel Shortlist)",
+    "selectAtLeastOne": "Select at least one allergy",
+    "save": "Save",
+    "cancel": "Cancel",
+    "showCards": "Show Cards",
+    "setupDescription": "Set up your profile to generate allergy cards",
+    "tabInfo": "Info",
+    "tabDining": "Dining",
+    "tabPharmacy": "Pharmacy",
+    "tabEmergency": "Emergency",
+    "footerInstructions": "Show this screen to communicate your allergies",
+    "noProfiles": "No profiles yet — add one to get started",
+    "confirmDelete": "Delete this profile?"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "allergies": [
+    { "id": "peanuts", "icon": "🥜" },
+    { "id": "treenuts", "icon": "🌰" },
+    { "id": "shellfish", "icon": "🦐" },
+    { "id": "dairy", "icon": "🥛" },
+    { "id": "eggs", "icon": "🥚" },
+    { "id": "soy", "icon": "🫘" },
+    { "id": "wheat", "icon": "🌾" },
+    { "id": "fish", "icon": "🐟" }
+  ]
+}

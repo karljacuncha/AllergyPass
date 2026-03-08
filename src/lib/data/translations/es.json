@@ -1,0 +1,44 @@
+{
+  "allergies": {
+    "peanuts": "Cacahuetes",
+    "treenuts": "Frutos Secos",
+    "shellfish": "Mariscos",
+    "dairy": "Lácteos",
+    "eggs": "Huevos",
+    "soy": "Soja",
+    "wheat": "Trigo",
+    "fish": "Pescado"
+  },
+  "phrases": {
+    "allergicTo": "Soy alérgico/a a",
+    "contains": "¿Contiene esto",
+    "emergency": "EMERGENCIA: Estoy teniendo una reacción alérgica",
+    "callAmbulance": "Por favor llame una ambulancia",
+    "anaphylaxis": "Estoy entrando en shock anafiláctico",
+    "epipen": "Necesito mi EpiPen"
+  },
+  "ui": {
+    "appTitle": "Tarjetas de Alergia",
+    "settings": "Ajustes",
+    "profiles": "Perfiles",
+    "addProfile": "Añadir Perfil",
+    "editProfile": "Editar Perfil",
+    "deleteProfile": "Eliminar Perfil",
+    "profileName": "Nombre del perfil",
+    "allergies": "Alergias",
+    "interfaceLanguage": "Idioma de Interfaz",
+    "cardLanguages": "Idiomas de Tarjetas (Lista de Viaje)",
+    "selectAtLeastOne": "Seleccione al menos una alergia",
+    "save": "Guardar",
+    "cancel": "Cancelar",
+    "showCards": "Mostrar Tarjetas",
+    "setupDescription": "Configure su perfil para generar tarjetas de alergia",
+    "tabInfo": "Info",
+    "tabDining": "Restaurante",
+    "tabPharmacy": "Farmacia",
+    "tabEmergency": "Emergencia",
+    "footerInstructions": "Muestre esta pantalla para comunicar sus alergias",
+    "noProfiles": "Sin perfiles aún — añada uno para empezar",
+    "confirmDelete": "¿Eliminar este perfil?"
+  }
+}

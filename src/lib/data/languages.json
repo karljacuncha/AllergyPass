@@ -1,0 +1,14 @@
+{
+  "languages": {
+    "en": { "name": "English", "flag": "🇬🇧" },
+    "es": { "name": "Español", "flag": "🇪🇸" },
+    "fr": { "name": "Français", "flag": "🇫🇷" },
+    "de": { "name": "Deutsch", "flag": "🇩🇪" },
+    "it": { "name": "Italiano", "flag": "🇮🇹" },
+    "pt": { "name": "Português", "flag": "🇵🇹" },
+    "ja": { "name": "日本語", "flag": "🇯🇵" },
+    "zh": { "name": "中文", "flag": "🇨🇳" },
+    "ar": { "name": "العربية", "flag": "🇸🇦" },
+    "hi": { "name": "हिन्दी", "flag": "🇮🇳" }
+  }
+}
